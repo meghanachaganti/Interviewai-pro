@@ -1,0 +1,12 @@
+{
+  "name": "InterviewAI Pro",
+  "description": "Professional AI-powered mock interview platform for Computer Science, AI, and Data Science students. Practice specific rounds for top tech companies with real-time feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Interviewer",
+    "Company-specific rounds",
+    "Skill-based feedback"
+  ]
+}
